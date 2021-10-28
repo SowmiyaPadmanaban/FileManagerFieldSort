@@ -19720,17 +19720,7 @@
             `Descending` - Indicates that the folders and files are sorted in the descending order.
             </summary>
         </member>
-        <member name="P:Syncfusion.Blazor.FileManager.SfFileManager`1.SortBy">
-            <summary>
-            Gets or sets the sorting field of the File Manager component.
-            </summary>
-            <value>
-            This property contains the sorting field string of the FileManager component. The default value is <c>Name</c>.
-            </value>
-            <remarks>
-            The Default sorting is performed based on the name field. You can also perform sorting based on size and date modified fields also.
-            </remarks>
-        </member>
+        <!-- Badly formed XML comment ignored for member "P:Syncfusion.Blazor.FileManager.SfFileManager`1.SortBy" -->
         <member name="P:Syncfusion.Blazor.FileManager.SfFileManager`1.ToolbarSettings">
             <summary>
             Specifies the group of items aligned horizontally in the toolbar.
